@@ -21,3 +21,7 @@ npm install --save axios
 npm link
 
 npm uninstall -g whistle.pb
+
+### 调试
+到当前目录
+lack watch
